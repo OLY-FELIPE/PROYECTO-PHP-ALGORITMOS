@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'create_successful' => 'Tarea creada con exitosamente',
+    'update_successful' => 'Tarea actualizada exitosamente',
+    'deleted' => 'Tarea eliminada',
+    'task_not_found' => 'No se ha podido encontrar la tarea con el ID',
+    'title' => 'Tareas',
+    'new' => 'Nueva tarea',
+    'search' => 'Buscar',
+    'no_tasks_found' => 'No se econtraron tareas',
+    'title_task' => 'Tarea',
+    'back_to_index' => 'volver al indice',
+    'id' => 'ID',
+    'description' => 'Descripción',
+    'created_at' => 'Creado en',
+    'updated_at' => 'Actualizado a las',
+    'edit' => 'Editar',
+    'delete' => 'Eliminar',
+    'new_task' => 'Nueva tarea',
+    'cancel' => 'Cancelar',
+    'save' => 'Guardar',
+    'edit_task' => 'Editar tarea',
+    'delete_task' => 'Eliminar tarea',
+    'are_you_sure' => '¿Estás seguro?',
+    'yes' => 'Sí',
+    'description_required' => 'Por favor, ingrese una descripción',
+];
